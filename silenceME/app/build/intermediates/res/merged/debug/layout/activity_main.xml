@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    android:orientation="vertical"
+    tools:context="com.example.group10.silenceme.MainActivity">
+
+    <Button
+        android:text="ADD EVENT"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:id="@+id/menu_add_event_button"
+        android:onClick="buttonClicked"/>
+
+    <Button
+        android:text="WEEKLY SCHEDULE"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:id="@+id/menu_add_weekly_schedule_button"
+        android:onClick="buttonClicked"/>
+
+    <Button
+        android:text="CALENDAR"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:id="@+id/menu_calendar_button"
+        android:onClick="buttonClicked"/>
+
+    <Button
+        android:text="EVENTS"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:id="@+id/menu_upcoming_events_button"
+        android:onClick="buttonClicked"/>
+
+    <Button
+        android:text="SETTINGS"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:id="@+id/menu_settings_button"
+        android:onClick="buttonClicked"/>
+</LinearLayout>

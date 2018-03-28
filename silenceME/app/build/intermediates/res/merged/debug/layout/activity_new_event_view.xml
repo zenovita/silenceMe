@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_new_event_view"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:orientation="vertical"
+    tools:context="com.example.group10.silenceme.NewEventActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="20dp"
+        android:orientation="vertical">
+
+        <EditText
+            android:id="@+id/ae_event_name_et"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:hint="Event Name"
+            android:padding="10dp"
+            android:layout_marginRight="10dp"
+            android:background="@drawable/border"
+            android:inputType="textPersonName"
+            android:maxLines="1" />
+        <EditText
+            android:id="@+id/ae_location_et"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginRight="10dp"
+            android:hint="Location"
+            android:padding="10dp"
+            android:background="@drawable/border"
+            android:inputType="textPersonName"
+            android:maxLines="1" />
+
+        <TextView
+            android:text="Repeat:"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginRight="10dp"
+            android:textSize="20sp"
+            android:id="@+id/ae_repeat_text" />
+
+        <Spinner
+            android:layout_width="match_parent"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginRight="10dp"
+            android:id="@+id/ae_repeat_spinner"
+            android:entries="@array/repeat"
+            android:layout_height="35dp" />
+
+        <TextView
+            android:text="Start Date"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginRight="10dp"
+            android:textSize="20sp"
+            android:id="@+id/ae_start_date_text" />
+
+        <DatePicker
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/ae_start_date_datep"
+            android:datePickerMode="spinner"
+            android:firstDayOfWeek="2"/>
+
+        <TextView
+            android:text="End Date"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginRight="10dp"
+            android:textSize="20sp"
+            android:id="@+id/ae_end_date_text" />
+
+        <DatePicker
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/ae_end_date_datep"
+            android:datePickerMode="spinner"
+            android:firstDayOfWeek="2"/>
+
+        <TextView
+        android:text="Start Time"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginRight="10dp"
+        android:textSize="20sp"
+        android:id="@+id/ae_start_time_text" />
+
+        <TimePicker
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/ae_start_time_timep"
+            android:timePickerMode="spinner">
+        </TimePicker>
+
+        <TextView
+            android:text="End Time"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginRight="10dp"
+            android:textSize="20sp"
+            android:id="@+id/ae_end_time_text" />
+
+        <TimePicker
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/ae_end_time_timep"
+            android:timePickerMode="spinner">
+        </TimePicker>
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginBottom="20dp">
+
+
+            <Button
+                android:text="Save"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="5dp"
+                android:id="@+id/ae_save_button"
+                android:layout_weight="1"
+                android:onClick="aeButtonPressed"/>
+
+            <Button
+                android:text="Cancel"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="5dp"
+                android:id="@+id/ae_cancel_button"
+                android:layout_weight="1"
+                android:onClick="aeButtonPressed"/>
+
+        </LinearLayout>
+    </LinearLayout>
+
+</ScrollView>

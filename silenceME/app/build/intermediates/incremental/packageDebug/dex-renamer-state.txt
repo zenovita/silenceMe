@@ -1,0 +1,7 @@
+#Thu Mar 01 17:34:08 EET 2018
+base.0=C\:\\Users\\MONSTER\\Desktop\\LECTURES\\CS 102\\CS102 PROJECT\\son kodlar\\silenceME\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_da3f5ff4d5c18d0b545eae955aedbb94c1942636
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\MONSTER\\Desktop\\LECTURES\\CS 102\\CS102 PROJECT\\son kodlar\\silenceME\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_11ffbe14a84f3ce640cccea96ecb94c44ad73d7f\\classes.dex
+base.1=C\:\\Users\\MONSTER\\Desktop\\LECTURES\\CS 102\\CS102 PROJECT\\son kodlar\\silenceME\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_11ffbe14a84f3ce640cccea96ecb94c44ad73d7f
+file.0=C\:\\Users\\MONSTER\\Desktop\\LECTURES\\CS 102\\CS102 PROJECT\\son kodlar\\silenceME\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_da3f5ff4d5c18d0b545eae955aedbb94c1942636\\classes.dex

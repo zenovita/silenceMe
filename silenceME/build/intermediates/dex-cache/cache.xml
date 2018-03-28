@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\MONSTER\Desktop\LECTURES\CS 102\CS102 PROJECT\son kodlar\silenceME\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="6b3ece7f1b9341bc4b0db88bbef11dfaa7c0b57b">
+        <dex dex="C:\Users\MONSTER\Desktop\LECTURES\CS 102\CS102 PROJECT\son kodlar\silenceME\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_11ffbe14a84f3ce640cccea96ecb94c44ad73d7f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MONSTER\Desktop\LECTURES\CS 102\CS102 PROJECT\son kodlar\silenceME\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\MONSTER\Desktop\LECTURES\CS 102\CS102 PROJECT\son kodlar\silenceME\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_327e57ce3faca5085c52f1d9e6cc4bd4d96ea6d9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MONSTER\Desktop\LECTURES\CS 102\CS102 PROJECT\son kodlar\silenceME\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ee4bc8d47b9e1ca20b1e7b79a6557456351b9385">
+        <dex dex="C:\Users\MONSTER\Desktop\LECTURES\CS 102\CS102 PROJECT\son kodlar\silenceME\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_da3f5ff4d5c18d0b545eae955aedbb94c1942636\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MONSTER\Desktop\LECTURES\CS 102\CS102 PROJECT\son kodlar\silenceME\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\MONSTER\Desktop\LECTURES\CS 102\CS102 PROJECT\son kodlar\silenceME\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_0b25a597267ed2422d24e6e78edd9ef8c60d245f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MONSTER\Desktop\LECTURES\CS 102\CS102 PROJECT\son kodlar\silenceME\app\build\intermediates\exploded-aar\com.github.alamkanak\android-week-view\1.2.6\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="393eb85d65baa2c3702efdf699832498f8b51bf1">
+        <dex dex="C:\Users\MONSTER\Desktop\LECTURES\CS 102\CS102 PROJECT\son kodlar\silenceME\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.github.alamkanak-android-week-view-1.2.6_fb29db290fd9294f1653bd1ef50b911e42e8e619\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MONSTER\Desktop\LECTURES\CS 102\CS102 PROJECT\son kodlar\silenceME\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\MONSTER\Desktop\LECTURES\CS 102\CS102 PROJECT\son kodlar\silenceME\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_56dcf85c27c92aef1ada5ddbc3ab5c44580cdcb7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MONSTER\Desktop\LECTURES\CS 102\CS102 PROJECT\son kodlar\silenceME\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\MONSTER\Desktop\LECTURES\CS 102\CS102 PROJECT\son kodlar\silenceME\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_cf628aa23b2a27e28eb527e085b1f614bbd733e2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MONSTER\Desktop\LECTURES\CS 102\CS102 PROJECT\son kodlar\silenceME\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\MONSTER\Desktop\LECTURES\CS 102\CS102 PROJECT\son kodlar\silenceME\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_4a3ee7157ce1c5390dafbe593d50bb1aa41b69b0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MONSTER\Desktop\LECTURES\CS 102\CS102 PROJECT\son kodlar\silenceME\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\MONSTER\Desktop\LECTURES\CS 102\CS102 PROJECT\son kodlar\silenceME\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_6d051eeaa22f2039e85d39451451f948e882708c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MONSTER\Desktop\LECTURES\CS 102\CS102 PROJECT\son kodlar\silenceME\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\MONSTER\Desktop\LECTURES\CS 102\CS102 PROJECT\son kodlar\silenceME\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_4d45608af8658107e83e68889cf590d6427cf177\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MONSTER\Desktop\LECTURES\CS 102\CS102 PROJECT\son kodlar\silenceME\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\MONSTER\Desktop\LECTURES\CS 102\CS102 PROJECT\son kodlar\silenceME\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_157be16efffa059d03fc3285b36367fa6cabfb76\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MONSTER\Desktop\LECTURES\CS 102\CS102 PROJECT\son kodlar\silenceME\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\MONSTER\Desktop\LECTURES\CS 102\CS102 PROJECT\son kodlar\silenceME\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_d7922fb27dc2d5a858293c05cb51eaa6b1d883de\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MONSTER\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\MONSTER\Desktop\LECTURES\CS 102\CS102 PROJECT\son kodlar\silenceME\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_458f67e378620b9158ed54a08b17091282a356b8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MONSTER\Desktop\LECTURES\CS 102\CS102 PROJECT\son kodlar\silenceME\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\MONSTER\Desktop\LECTURES\CS 102\CS102 PROJECT\son kodlar\silenceME\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_4b3b095d202db19605bed4a942887582d5d8ad9a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MONSTER\Desktop\LECTURES\CS 102\CS102 PROJECT\son kodlar\silenceME\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\MONSTER\Desktop\LECTURES\CS 102\CS102 PROJECT\son kodlar\silenceME\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_3ce8da244f26b6422a0fe804cbf87284bc81e620\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MONSTER\Desktop\LECTURES\CS 102\CS102 PROJECT\son kodlar\silenceME\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\MONSTER\Desktop\LECTURES\CS 102\CS102 PROJECT\son kodlar\silenceME\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_2eeff4af7f7a8610f445eed430b6142fbfcb3e91\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MONSTER\Desktop\LECTURES\CS 102\CS102 PROJECT\son kodlar\silenceME\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\MONSTER\Desktop\LECTURES\CS 102\CS102 PROJECT\son kodlar\silenceME\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_f5480a272dcd9ae8f3be42a1eafdcc985708d3de\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MONSTER\Desktop\LECTURES\CS 102\CS102 PROJECT\son kodlar\silenceME\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\MONSTER\Desktop\LECTURES\CS 102\CS102 PROJECT\son kodlar\silenceME\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_9e65a868f805b698011cf6b6e1a775046765b673\classes.dex" />
+    </item>
+
+</items>

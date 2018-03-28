@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.group10.silenceme"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="23"
+        android:targetSdkVersion="24" />
+
+    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
+    <uses-permission android:name="android.permission.WRITE_CALENDAR" />
+    <uses-permission android:name="android.permission.READ_CALENDAR" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <activity android:name="com.example.group10.silenceme.MainActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.example.group10.silenceme.NewEventActivity" />
+        <activity android:name="com.example.group10.silenceme.BasicCalendar" />
+        <activity android:name="com.example.group10.silenceme.SettingsActivity" />
+        <activity android:name="com.example.group10.silenceme.BaseActivity" />
+        <activity android:name="com.example.group10.silenceme.WeeklySchedule" />
+
+        <service
+            android:name="com.example.group10.silenceme.Silencer"
+            android:enabled="true"
+            android:exported="true" />
+        <service
+            android:name="com.example.group10.silenceme.UnSilencer"
+            android:enabled="true"
+            android:exported="true" />
+
+        <activity android:name="com.example.group10.silenceme.EventDetail" />
+        <activity android:name="com.example.group10.silenceme.UpcomingEventsView" />
+
+        <service
+            android:name="com.example.group10.silenceme.AddEvent"
+            android:enabled="true"
+            android:exported="true" />
+    </application>
+
+</manifest>

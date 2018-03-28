@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.group10.silenceme">
+
+    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
+    <uses-permission android:name="android.permission.WRITE_CALENDAR" />
+    <uses-permission android:name="android.permission.READ_CALENDAR" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".NewEventActivity" />
+        <activity android:name=".BasicCalendar" />
+        <activity android:name=".SettingsActivity" />
+        <activity android:name=".BaseActivity" />
+        <activity android:name=".WeeklySchedule" />
+
+        <service
+            android:name=".Silencer"
+            android:enabled="true"
+            android:exported="true" />
+        <service
+            android:name=".UnSilencer"
+            android:enabled="true"
+            android:exported="true" />
+
+        <activity android:name=".EventDetail" />
+        <activity android:name=".UpcomingEventsView" />
+
+        <service
+            android:name=".AddEvent"
+            android:enabled="true"
+            android:exported="true" />
+    </application>
+
+</manifest>
